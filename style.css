@@ -1,0 +1,15 @@
+body {background: #A4A4A4;}
+
+.content
+{margin:0 auto;
+padding:30px;
+text-align:center;
+background: white; 
+width:700px;
+min-height:450px;
+font-size: 24px;
+border-radius:2px;
+box-shadow: 2px 2px 2px #666;}
+
+span {color: #0066CC;}
+
